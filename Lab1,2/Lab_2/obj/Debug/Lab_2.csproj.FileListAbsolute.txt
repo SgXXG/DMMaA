@@ -1,0 +1,11 @@
+D:\!Studing\3 Course\6 Sem\DMaA-Labs-main\DMaA-Labs-main\Lab_2\Lab_2\bin\Debug\Lab_2.exe.config
+D:\!Studing\3 Course\6 Sem\DMaA-Labs-main\DMaA-Labs-main\Lab_2\Lab_2\bin\Debug\Lab_2.exe
+D:\!Studing\3 Course\6 Sem\DMaA-Labs-main\DMaA-Labs-main\Lab_2\Lab_2\bin\Debug\Lab_2.pdb
+D:\!Studing\3 Course\6 Sem\DMaA-Labs-main\DMaA-Labs-main\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+D:\!Studing\3 Course\6 Sem\DMaA-Labs-main\DMaA-Labs-main\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.SuggestedBindingRedirects.cache
+D:\!Studing\3 Course\6 Sem\DMaA-Labs-main\DMaA-Labs-main\Lab_2\Lab_2\obj\Debug\Lab_2.MainForm.resources
+D:\!Studing\3 Course\6 Sem\DMaA-Labs-main\DMaA-Labs-main\Lab_2\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+D:\!Studing\3 Course\6 Sem\DMaA-Labs-main\DMaA-Labs-main\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+D:\!Studing\3 Course\6 Sem\DMaA-Labs-main\DMaA-Labs-main\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+D:\!Studing\3 Course\6 Sem\DMaA-Labs-main\DMaA-Labs-main\Lab_2\Lab_2\obj\Debug\Lab_2.exe
+D:\!Studing\3 Course\6 Sem\DMaA-Labs-main\DMaA-Labs-main\Lab_2\Lab_2\obj\Debug\Lab_2.pdb
