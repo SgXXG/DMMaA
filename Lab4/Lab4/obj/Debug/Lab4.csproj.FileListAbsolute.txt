@@ -1,0 +1,38 @@
+E:\Универ\5 сем\МиАПР\Работы\Lab4\Lab4\bin\Debug\Lab4.exe.config
+E:\Универ\5 сем\МиАПР\Работы\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+E:\Универ\5 сем\МиАПР\Работы\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+E:\Универ\5 сем\МиАПР\Работы\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+E:\Универ\5 сем\МиАПР\Работы\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache
+E:\Универ\5 сем\МиАПР\Работы\Lab4\Lab4\bin\Debug\Lab4.exe
+E:\Универ\5 сем\МиАПР\Работы\Lab4\Lab4\bin\Debug\Lab4.pdb
+E:\Универ\5 сем\МиАПР\Работы\Lab4\Lab4\obj\Debug\Lab4.exe
+E:\Универ\5 сем\МиАПР\Работы\Lab4\Lab4\obj\Debug\Lab4.pdb
+e:\6 сем\МиАПР\лабы\Lab4\Lab4\bin\Debug\Lab4.exe.config
+e:\6 сем\МиАПР\лабы\Lab4\Lab4\bin\Debug\Lab4.exe
+e:\6 сем\МиАПР\лабы\Lab4\Lab4\bin\Debug\Lab4.pdb
+e:\6 сем\МиАПР\лабы\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+e:\6 сем\МиАПР\лабы\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+e:\6 сем\МиАПР\лабы\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+e:\6 сем\МиАПР\лабы\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache
+e:\6 сем\МиАПР\лабы\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+e:\6 сем\МиАПР\лабы\Lab4\Lab4\obj\Debug\Lab4.exe
+e:\6 сем\МиАПР\лабы\Lab4\Lab4\obj\Debug\Lab4.pdb
+D:\bsuir\МИАПР\МиАПР\лабы\Lab4\Lab4\bin\Debug\Lab4.exe.config
+D:\bsuir\МИАПР\МиАПР\лабы\Lab4\Lab4\bin\Debug\Lab4.exe
+D:\bsuir\МИАПР\МиАПР\лабы\Lab4\Lab4\bin\Debug\Lab4.pdb
+D:\bsuir\МИАПР\МиАПР\лабы\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+D:\bsuir\МИАПР\МиАПР\лабы\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+D:\bsuir\МИАПР\МиАПР\лабы\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+D:\bsuir\МИАПР\МиАПР\лабы\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+D:\bsuir\МИАПР\МиАПР\лабы\Lab4\Lab4\obj\Debug\Lab4.exe
+D:\bsuir\МИАПР\МиАПР\лабы\Lab4\Lab4\obj\Debug\Lab4.pdb
+D:\!Studing\3 Course\6 Sem\МиАПР\Lab4\Lab4\bin\Debug\Lab4.exe.config
+D:\!Studing\3 Course\6 Sem\МиАПР\Lab4\Lab4\bin\Debug\Lab4.exe
+D:\!Studing\3 Course\6 Sem\МиАПР\Lab4\Lab4\bin\Debug\Lab4.pdb
+D:\!Studing\3 Course\6 Sem\МиАПР\Lab4\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+D:\!Studing\3 Course\6 Sem\МиАПР\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+D:\!Studing\3 Course\6 Sem\МиАПР\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+D:\!Studing\3 Course\6 Sem\МиАПР\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+D:\!Studing\3 Course\6 Sem\МиАПР\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+D:\!Studing\3 Course\6 Sem\МиАПР\Lab4\Lab4\obj\Debug\Lab4.exe
+D:\!Studing\3 Course\6 Sem\МиАПР\Lab4\Lab4\obj\Debug\Lab4.pdb

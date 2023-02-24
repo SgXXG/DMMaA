@@ -1,0 +1,15 @@
+E:\Универ\5 сем\МиАПР\Работы\Lab5\Lab5\bin\Debug\Lab5.exe.config
+E:\Универ\5 сем\МиАПР\Работы\Lab5\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+E:\Универ\5 сем\МиАПР\Работы\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+E:\Универ\5 сем\МиАПР\Работы\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.Cache
+E:\Универ\5 сем\МиАПР\Работы\Lab5\Lab5\bin\Debug\Lab5.exe
+E:\Универ\5 сем\МиАПР\Работы\Lab5\Lab5\bin\Debug\Lab5.pdb
+E:\Универ\5 сем\МиАПР\Работы\Lab5\Lab5\obj\Debug\Lab5.exe
+E:\Универ\5 сем\МиАПР\Работы\Lab5\Lab5\obj\Debug\Lab5.pdb
+E:\Универ\5 сем\МиАПР\Работы\Lab5\Lab5\obj\Debug\Lab5.Form1.resources
+E:\Универ\5 сем\МиАПР\Работы\Lab5\Lab5\bin\Debug\SyntaxHighlighter.dll
+E:\Универ\5 сем\МиАПР\Работы\Lab5\Lab5\bin\Debug\Algorithm.dll
+E:\Универ\5 сем\МиАПР\Работы\Lab5\Lab5\bin\Debug\Algorithm.pdb
+E:\Универ\5 сем\МиАПР\Работы\Lab5\Lab5\Lab5\bin\Debug\Lab5.exe.config
+E:\Универ\5 сем\МиАПР\Работы\Lab5\Lab5\Lab5\obj\Debug\Lab5.exe
+E:\Универ\5 сем\МиАПР\Работы\Lab5\Lab5\Lab5\obj\Debug\Lab5.pdb

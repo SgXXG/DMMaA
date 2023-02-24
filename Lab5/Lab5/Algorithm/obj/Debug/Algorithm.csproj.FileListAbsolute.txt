@@ -1,0 +1,5 @@
+E:\Универ\5 сем\МиАПР\Работы\Lab5\Algorithm\bin\Debug\Algorithm.dll
+E:\Универ\5 сем\МиАПР\Работы\Lab5\Algorithm\bin\Debug\Algorithm.pdb
+E:\Универ\5 сем\МиАПР\Работы\Lab5\Algorithm\obj\Debug\Algorithm.csprojResolveAssemblyReference.cache
+E:\Универ\5 сем\МиАПР\Работы\Lab5\Algorithm\obj\Debug\Algorithm.dll
+E:\Универ\5 сем\МиАПР\Работы\Lab5\Algorithm\obj\Debug\Algorithm.pdb

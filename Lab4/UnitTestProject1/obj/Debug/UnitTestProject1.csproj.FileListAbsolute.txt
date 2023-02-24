@@ -1,0 +1,7 @@
+E:\Универ\5 сем\МиАПР\Работы\Lab4\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+E:\Универ\5 сем\МиАПР\Работы\Lab4\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+E:\Универ\5 сем\МиАПР\Работы\Lab4\UnitTestProject1\bin\Debug\Lab4.exe
+E:\Универ\5 сем\МиАПР\Работы\Lab4\UnitTestProject1\bin\Debug\Lab4.pdb
+E:\Универ\5 сем\МиАПР\Работы\Lab4\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+E:\Универ\5 сем\МиАПР\Работы\Lab4\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+E:\Универ\5 сем\МиАПР\Работы\Lab4\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

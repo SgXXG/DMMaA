@@ -1,0 +1,17 @@
+E:\Универ\5 сем\МиАПР\Работы\Lab5\Algorithm\bin\Debug\Algorithm.dll
+E:\Универ\5 сем\МиАПР\Работы\Lab5\Algorithm\bin\Debug\Algorithm.pdb
+E:\Универ\5 сем\МиАПР\Работы\Lab5\Algorithm\obj\Debug\Algorithm.csprojResolveAssemblyReference.cache
+E:\Универ\5 сем\МиАПР\Работы\Lab5\Algorithm\obj\Debug\Algorithm.dll
+E:\Универ\5 сем\МиАПР\Работы\Lab5\Algorithm\obj\Debug\Algorithm.pdb
+D:\bsuir\МИАПР\МиАПР\лабы\Lab5\Algorithm\bin\Debug\Algorithm.dll
+D:\bsuir\МИАПР\МиАПР\лабы\Lab5\Algorithm\bin\Debug\Algorithm.pdb
+D:\bsuir\МИАПР\МиАПР\лабы\Lab5\Algorithm\obj\Debug\Algorithm.csprojAssemblyReference.cache
+D:\bsuir\МИАПР\МиАПР\лабы\Lab5\Algorithm\obj\Debug\Algorithm.csproj.CoreCompileInputs.cache
+D:\bsuir\МИАПР\МиАПР\лабы\Lab5\Algorithm\obj\Debug\Algorithm.dll
+D:\bsuir\МИАПР\МиАПР\лабы\Lab5\Algorithm\obj\Debug\Algorithm.pdb
+D:\!Studing\3 Course\6 Sem\МиАПР\Lab5\Algorithm\bin\Debug\Algorithm.dll
+D:\!Studing\3 Course\6 Sem\МиАПР\Lab5\Algorithm\bin\Debug\Algorithm.pdb
+D:\!Studing\3 Course\6 Sem\МиАПР\Lab5\Algorithm\obj\Debug\Algorithm.csproj.AssemblyReference.cache
+D:\!Studing\3 Course\6 Sem\МиАПР\Lab5\Algorithm\obj\Debug\Algorithm.csproj.CoreCompileInputs.cache
+D:\!Studing\3 Course\6 Sem\МиАПР\Lab5\Algorithm\obj\Debug\Algorithm.dll
+D:\!Studing\3 Course\6 Sem\МиАПР\Lab5\Algorithm\obj\Debug\Algorithm.pdb
