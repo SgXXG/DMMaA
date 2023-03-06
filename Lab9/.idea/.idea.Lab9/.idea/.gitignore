@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.Lab9.iml
+# Datasource local storage ignored files
+/../../../../../../../:\Projects C#\DMMaA_LAB_9\Lab9\.idea\.idea.Lab9\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

@@ -1,0 +1,6 @@
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\NeuralNetwork\bin\Debug\NeuralNetwork.dll
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\NeuralNetwork\bin\Debug\NeuralNetwork.pdb
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\NeuralNetwork\obj\Debug\NeuralNetwork.csproj.AssemblyReference.cache
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\NeuralNetwork\obj\Debug\NeuralNetwork.csproj.CoreCompileInputs.cache
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\NeuralNetwork\obj\Debug\NeuralNetwork.dll
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\NeuralNetwork\obj\Debug\NeuralNetwork.pdb

@@ -1,0 +1,74 @@
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\WpfProject.exe.config
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\WpfProject.exe
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\WpfProject.pdb
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\ImageLoad.dll
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\NeuralNetwork.dll
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\ImageLoad.pdb
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\NeuralNetwork.pdb
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\WpfProject\obj\Debug\WpfProject.csproj.AssemblyReference.cache
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\WpfProject\obj\Debug\MainWindow.baml
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\WpfProject\obj\Debug\ManualTeachingSetupWinodw.baml
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\WpfProject\obj\Debug\MainWindow.g.cs
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\WpfProject\obj\Debug\ManualTeachingSetupWinodw.g.cs
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\WpfProject\obj\Debug\App.g.cs
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\WpfProject\obj\Debug\WpfProject_MarkupCompile.cache
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\WpfProject\obj\Debug\WpfProject.g.resources
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\WpfProject\obj\Debug\WpfProject.Properties.Resources.resources
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\WpfProject\obj\Debug\WpfProject.csproj.GenerateResource.cache
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\WpfProject\obj\Debug\WpfProject.csproj.CoreCompileInputs.cache
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\WpfProject\obj\Debug\WpfProject.csproj.CopyComplete
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\WpfProject\obj\Debug\WpfProject.exe
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\WpfProject\obj\Debug\WpfProject.pdb
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\WpfProject.exe.config
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\WpfProject.exe
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\WpfProject.pdb
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\ImageLoad.dll
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\NeuralNetwork.dll
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\ImageLoad.pdb
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\NeuralNetwork.pdb
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_9\Lab9\WpfProject\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_9\Lab9\WpfProject\obj\Debug\WpfProject.csproj.AssemblyReference.cache
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_9\Lab9\WpfProject\obj\Debug\MainWindow.baml
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_9\Lab9\WpfProject\obj\Debug\ManualTeachingSetupWinodw.baml
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_9\Lab9\WpfProject\obj\Debug\MainWindow.g.cs
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_9\Lab9\WpfProject\obj\Debug\ManualTeachingSetupWinodw.g.cs
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_9\Lab9\WpfProject\obj\Debug\App.g.cs
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_9\Lab9\WpfProject\obj\Debug\WpfProject_MarkupCompile.cache
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_9\Lab9\WpfProject\obj\Debug\WpfProject.g.resources
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_9\Lab9\WpfProject\obj\Debug\WpfProject.Properties.Resources.resources
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_9\Lab9\WpfProject\obj\Debug\WpfProject.csproj.GenerateResource.cache
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_9\Lab9\WpfProject\obj\Debug\WpfProject.csproj.CoreCompileInputs.cache
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_9\Lab9\WpfProject\obj\Debug\WpfProject.csproj.CopyComplete
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_9\Lab9\WpfProject\obj\Debug\WpfProject.exe
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_9\Lab9\WpfProject\obj\Debug\WpfProject.pdb

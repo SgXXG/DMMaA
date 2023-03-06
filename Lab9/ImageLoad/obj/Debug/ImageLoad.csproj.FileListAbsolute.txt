@@ -1,0 +1,6 @@
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\ImageLoad\bin\Debug\ImageLoad.dll
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\ImageLoad\bin\Debug\ImageLoad.pdb
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\ImageLoad\obj\Debug\ImageLoad.csproj.AssemblyReference.cache
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\ImageLoad\obj\Debug\ImageLoad.csproj.CoreCompileInputs.cache
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\ImageLoad\obj\Debug\ImageLoad.dll
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_9\Lab9\ImageLoad\obj\Debug\ImageLoad.pdb
