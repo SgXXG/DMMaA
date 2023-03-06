@@ -1,0 +1,48 @@
+E:\Универ\5 сем\МиАПР\Работы\Lab7\Lab7\bin\Debug\Lab7.exe.config
+E:\Универ\5 сем\МиАПР\Работы\Lab7\Lab7\bin\Debug\Lab7.exe
+E:\Универ\5 сем\МиАПР\Работы\Lab7\Lab7\bin\Debug\Lab7.pdb
+E:\Универ\5 сем\МиАПР\Работы\Lab7\Lab7\bin\Debug\Syntax.dll
+E:\Универ\5 сем\МиАПР\Работы\Lab7\Lab7\bin\Debug\Syntax.pdb
+E:\Универ\5 сем\МиАПР\Работы\Lab7\Lab7\obj\Debug\Lab7.csprojResolveAssemblyReference.cache
+E:\Универ\5 сем\МиАПР\Работы\Lab7\Lab7\obj\Debug\MainWindow.baml
+E:\Универ\5 сем\МиАПР\Работы\Lab7\Lab7\obj\Debug\MainWindow.g.cs
+E:\Универ\5 сем\МиАПР\Работы\Lab7\Lab7\obj\Debug\App.g.cs
+E:\Универ\5 сем\МиАПР\Работы\Lab7\Lab7\obj\Debug\Lab7_MarkupCompile.cache
+E:\Универ\5 сем\МиАПР\Работы\Lab7\Lab7\obj\Debug\Lab7.g.resources
+E:\Универ\5 сем\МиАПР\Работы\Lab7\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+E:\Универ\5 сем\МиАПР\Работы\Lab7\Lab7\obj\Debug\Lab7.csproj.GenerateResource.Cache
+E:\Универ\5 сем\МиАПР\Работы\Lab7\Lab7\obj\Debug\Lab7.exe
+E:\Универ\5 сем\МиАПР\Работы\Lab7\Lab7\obj\Debug\Lab7.pdb
+e:\6 сем\МиАПР\лабы\Lab7\Lab7\bin\Debug\Lab7.exe.config
+e:\6 сем\МиАПР\лабы\Lab7\Lab7\bin\Debug\Lab7.exe
+e:\6 сем\МиАПР\лабы\Lab7\Lab7\bin\Debug\Lab7.pdb
+e:\6 сем\МиАПР\лабы\Lab7\Lab7\bin\Debug\Syntax.dll
+e:\6 сем\МиАПР\лабы\Lab7\Lab7\bin\Debug\Syntax.pdb
+e:\6 сем\МиАПР\лабы\Lab7\Lab7\obj\Debug\Lab7.csprojResolveAssemblyReference.cache
+e:\6 сем\МиАПР\лабы\Lab7\Lab7\obj\Debug\MainWindow.baml
+e:\6 сем\МиАПР\лабы\Lab7\Lab7\obj\Debug\MainWindow.g.cs
+e:\6 сем\МиАПР\лабы\Lab7\Lab7\obj\Debug\App.g.cs
+e:\6 сем\МиАПР\лабы\Lab7\Lab7\obj\Debug\Lab7_MarkupCompile.cache
+e:\6 сем\МиАПР\лабы\Lab7\Lab7\obj\Debug\Lab7.g.resources
+e:\6 сем\МиАПР\лабы\Lab7\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+e:\6 сем\МиАПР\лабы\Lab7\Lab7\obj\Debug\Lab7.csproj.GenerateResource.Cache
+e:\6 сем\МиАПР\лабы\Lab7\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+e:\6 сем\МиАПР\лабы\Lab7\Lab7\obj\Debug\Lab7.exe
+e:\6 сем\МиАПР\лабы\Lab7\Lab7\obj\Debug\Lab7.pdb
+D:\!Studing\3 Course\6 Sem\МиАПР\Lab7\Lab7\bin\Debug\Lab7.exe.config
+D:\!Studing\3 Course\6 Sem\МиАПР\Lab7\Lab7\bin\Debug\Lab7.exe
+D:\!Studing\3 Course\6 Sem\МиАПР\Lab7\Lab7\bin\Debug\Lab7.pdb
+D:\!Studing\3 Course\6 Sem\МиАПР\Lab7\Lab7\bin\Debug\Syntax.dll
+D:\!Studing\3 Course\6 Sem\МиАПР\Lab7\Lab7\bin\Debug\Syntax.pdb
+D:\!Studing\3 Course\6 Sem\МиАПР\Lab7\Lab7\obj\Debug\Lab7.csproj.AssemblyReference.cache
+D:\!Studing\3 Course\6 Sem\МиАПР\Lab7\Lab7\obj\Debug\MainWindow.baml
+D:\!Studing\3 Course\6 Sem\МиАПР\Lab7\Lab7\obj\Debug\MainWindow.g.cs
+D:\!Studing\3 Course\6 Sem\МиАПР\Lab7\Lab7\obj\Debug\App.g.cs
+D:\!Studing\3 Course\6 Sem\МиАПР\Lab7\Lab7\obj\Debug\Lab7_MarkupCompile.cache
+D:\!Studing\3 Course\6 Sem\МиАПР\Lab7\Lab7\obj\Debug\Lab7.g.resources
+D:\!Studing\3 Course\6 Sem\МиАПР\Lab7\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+D:\!Studing\3 Course\6 Sem\МиАПР\Lab7\Lab7\obj\Debug\Lab7.csproj.GenerateResource.cache
+D:\!Studing\3 Course\6 Sem\МиАПР\Lab7\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+D:\!Studing\3 Course\6 Sem\МиАПР\Lab7\Lab7\obj\Debug\Lab7.csproj.CopyComplete
+D:\!Studing\3 Course\6 Sem\МиАПР\Lab7\Lab7\obj\Debug\Lab7.exe
+D:\!Studing\3 Course\6 Sem\МиАПР\Lab7\Lab7\obj\Debug\Lab7.pdb
