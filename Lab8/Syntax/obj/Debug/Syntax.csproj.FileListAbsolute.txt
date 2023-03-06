@@ -1,0 +1,6 @@
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_8\Lab8\Syntax\bin\Debug\Syntax.dll
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_8\Lab8\Syntax\bin\Debug\Syntax.pdb
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_8\Lab8\Syntax\obj\Debug\Syntax.csproj.AssemblyReference.cache
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_8\Lab8\Syntax\obj\Debug\Syntax.csproj.CoreCompileInputs.cache
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_8\Lab8\Syntax\obj\Debug\Syntax.dll
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_8\Lab8\Syntax\obj\Debug\Syntax.pdb

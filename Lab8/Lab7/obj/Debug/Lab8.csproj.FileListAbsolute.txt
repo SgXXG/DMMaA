@@ -1,0 +1,34 @@
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_8\Lab8\Lab7\bin\Debug\Lab7.exe.config
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_8\Lab8\Lab7\bin\Debug\Lab7.exe
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_8\Lab8\Lab7\bin\Debug\Lab7.pdb
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_8\Lab8\Lab7\bin\Debug\Syntax.dll
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_8\Lab8\Lab7\bin\Debug\Syntax.pdb
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_8\Lab8\Lab7\obj\Debug\Lab8.csproj.AssemblyReference.cache
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_8\Lab8\Lab7\obj\Debug\MainWindow.baml
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_8\Lab8\Lab7\obj\Debug\MainWindow.g.cs
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_8\Lab8\Lab7\obj\Debug\App.g.cs
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_8\Lab8\Lab7\obj\Debug\Lab7_MarkupCompile.cache
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_8\Lab8\Lab7\obj\Debug\Lab7.g.resources
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_8\Lab8\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_8\Lab8\Lab7\obj\Debug\Lab8.csproj.GenerateResource.cache
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_8\Lab8\Lab7\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_8\Lab8\Lab7\obj\Debug\Lab8.csproj.CopyComplete
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_8\Lab8\Lab7\obj\Debug\Lab7.exe
+C:\Users\Sanya\Desktop\МиАПР лабы\DMMaA_LAB_8\Lab8\Lab7\obj\Debug\Lab7.pdb
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_8\Lab8\Lab7\bin\Debug\Lab7.exe.config
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_8\Lab8\Lab7\bin\Debug\Lab7.exe
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_8\Lab8\Lab7\bin\Debug\Lab7.pdb
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_8\Lab8\Lab7\bin\Debug\Syntax.dll
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_8\Lab8\Lab7\bin\Debug\Syntax.pdb
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_8\Lab8\Lab7\obj\Debug\Lab8.csproj.AssemblyReference.cache
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_8\Lab8\Lab7\obj\Debug\MainWindow.baml
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_8\Lab8\Lab7\obj\Debug\MainWindow.g.cs
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_8\Lab8\Lab7\obj\Debug\App.g.cs
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_8\Lab8\Lab7\obj\Debug\Lab7_MarkupCompile.cache
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_8\Lab8\Lab7\obj\Debug\Lab7.g.resources
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_8\Lab8\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_8\Lab8\Lab7\obj\Debug\Lab8.csproj.GenerateResource.cache
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_8\Lab8\Lab7\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_8\Lab8\Lab7\obj\Debug\Lab8.csproj.CopyComplete
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_8\Lab8\Lab7\obj\Debug\Lab7.exe
+D:\!Studing\3 Course\6 Sem\МиАПР\DMMaA_LAB_8\Lab8\Lab7\obj\Debug\Lab7.pdb
